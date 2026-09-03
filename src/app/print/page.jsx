@@ -232,6 +232,6 @@ export default function PrintPage() {
           @page { margin: 6mm; size: A4 portrait; }
         }
       `}</style>
-    </>
+    </> 
   );
 }
